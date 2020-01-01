@@ -1,0 +1,29 @@
+.navbar {
+  background-color: black;
+}
+#mainNavbar{
+ background: #3BB7D1;
+}
+
+body {
+    background-color: #072A4A;
+}
+
+h3 {
+  color: #60B7D1;
+  margin-right: 2%;
+  font-style: italic;
+  font-family: andika;
+}
+
+h1 {
+    color: #60B7D1;
+}
+
+.lead {
+  color: white;
+}
+
+.row {
+  margin-left: 5%;
+}
